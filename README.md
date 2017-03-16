@@ -27,7 +27,7 @@ Tasks
       -512mb is the recommended virtual memory to allot for your virtual machine, although you can do more if you have a lot of virtual memory on your computer
       -You should also allot the 8gb of hard drive space, with all the default settings
       ![setting you memory for 1G](https://raw.github.com/lauraccunningham/homework-01/master/images/2%20increaseTo1GofData.png)
-      - Once you've made the virtual machine, start it up and when you choose a disc image file, select the Ubuntu Server Image from your downloads folder
+      - Once you've made the virtual machine, start it up and when you choose a disk image file, select the Ubuntu Server Image from your downloads folder
       - Accept Defaults for VirtualBox
       - ** Note:  Left ⌘ (Command Key, http://en.wikipedia.org/wiki/Command_key) directly refers to the ⌘ key left of your space bar on the keyboard. **
       ![setting you memory for 1G](https://raw.github.com/lauraccunningham/homework-01/master/images/3%20importantToLKnowAbout.virtualBoxAutoCaptureFeature%20hitLeftCommandToReleaseMouseAndKeyBoard.png)
